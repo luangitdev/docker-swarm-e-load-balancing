@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   web:
-    image: luandos/flask-docker-swarm-load-balancing:latest
+    image: luandocs/flask-docker-swarm-load-balancing:latest
     deploy:
       replicas: 3
       restart_policy:
