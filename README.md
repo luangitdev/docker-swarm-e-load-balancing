@@ -1,4 +1,4 @@
-# **Flask App with Docker Swarm and Load Balancing**
+# **Docker Swarm & Load Balancing**
 
 Este projeto demonstra como implantar uma aplicação Flask simples em um cluster Docker Swarm com balanceamento de carga usando Nginx.
 
