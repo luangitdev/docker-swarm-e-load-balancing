@@ -1,7 +1,3 @@
-Claro, Luan! Aqui está uma documentação prática e passo a passo para o seu projeto, incluindo códigos e dicas para resolver problemas comuns. Essa documentação pode ser adicionada diretamente ao `README.md` do seu repositório no GitHub.
-
----
-
 # **Flask App with Docker Swarm and Load Balancing**
 
 Este projeto demonstra como implantar uma aplicação Flask simples em um cluster Docker Swarm com balanceamento de carga usando Nginx.
